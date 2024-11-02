@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SandaliGamage10</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">ICT Undergraduate at Sabaragamuwa University, driven by curiosity and a passion for continuous learning.</h3>
 <div id="header" align="center">
   <img width="260" height="260" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 </div>
